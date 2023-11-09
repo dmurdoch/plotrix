@@ -1,3 +1,9 @@
+Changes in version 3.8-5 (2023-11-09)
+
+  - Added pkgdown site at https://dmurdoch.github.io/plotrix/
+  
+  - Changed `Authors` to more descriptive `Authors@R`.
+
 Changes in version 3.8-4 (2023-11-09)
 
   - Duncan Murdoch has taken over as maintainer.
