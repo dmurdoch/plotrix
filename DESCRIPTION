@@ -25,4 +25,6 @@ Date/Publication: 2023-11-02 15:17:47 UTC
 X-CRAN-Original-Maintainer: Jim Lemon <drjimlemon@gmail.com>
 X-CRAN-Comment: Orphaned on 2023-11-02
  .
- The maintainer is deceased.
+   The maintainer is deceased.
+URL: https://github.com/dmurdoch/plotrix
+BugReports: https://github.com/dmurdoch/plotrix/issues
